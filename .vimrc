@@ -40,7 +40,6 @@ map sh <C-w>t<C-w>K
 
 noremap J  5j
 noremap K  5k
-
 noremap <LEADER><CR> :nohlsearch<CR>
 map s <nop>
 map S :w<CR>
