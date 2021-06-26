@@ -37,7 +37,6 @@ map <LEADER>l <C-w>l
 map sv <C-w>t<C-w>H
 map sh <C-w>t<C-w>K
 
-
 noremap J  5j
 noremap K  5k
 noremap <LEADER><CR> :nohlsearch<CR>
